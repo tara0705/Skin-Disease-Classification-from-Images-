@@ -23,7 +23,7 @@ evaluation, and optional web-based prediction interface.
 
 ## 📂 Project Structure
 
-DATA_ANALYSIS/
+DATA_ANALYSIS/                                                                                                                                                                                                      
 ├── data/                                                                                                                                                                                                            
 │ ├── raw/                                                                                                                                                                                                           
 │ │ ├── HAM10000_images/ (all 10,015 images)                                                                                                                                                                         
