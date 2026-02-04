@@ -2,11 +2,11 @@
 ## Skin Disease Classification using CNN
 
 DATA_ANALYSIS/
-├── data/
-│ ├── raw/
-│ │ ├── HAM10000_images/ (all 10,015 images)
-│ │ └── HAM10000_metadata.csv
-│ └── processed/
+├── data/                                                                                                                                                                                                            
+│ ├── raw/                                                                                                                                                                                                           
+│ │ ├── HAM10000_images/ (all 10,015 images)                                                                                                                                                                         
+│ │ └── HAM10000_metadata.csv                                                                                                                                                                                        
+│ └── processed/                                                                                                                                                                                                     
 │ ├── train_metadata.csv
 │ ├── val_metadata.csv
 │ └── test_metadata.csv
