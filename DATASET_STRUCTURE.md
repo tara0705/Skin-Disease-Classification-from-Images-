@@ -2,29 +2,23 @@
 ## Skin Disease Classification using CNN
 
 DATA_ANALYSIS/
-│
 ├── data/
-│   ├── raw/
-│   │   ├── HAM10000_images/         (all 10,015 images)
-│   │   └── HAM10000_metadata.csv   
-│   │
-│   └── processed/
-│       ├── train_metadata.csv     
-│       ├── val_metadata.csv       
-│       └── test_metadata.csv      
-│
+│ ├── raw/
+│ │ ├── HAM10000_images/ (all 10,015 images)
+│ │ └── HAM10000_metadata.csv
+│ └── processed/
+│ ├── train_metadata.csv
+│ ├── val_metadata.csv
+│ └── test_metadata.csv
 ├── notebooks/
-│   └── eda.ipynb                  
-│
+│ └── eda.ipynb
 ├── plots/
-│   └── class_distribution.png     
-│
+│ └── class_distribution.png
 ├── scripts/
-│   ├── load_data.py               
-│   ├── imbalance_handling.py      
-│   └── split_dataset.py           
-│
-└── dataset_report.md              
+│ ├── load_data.py
+│ ├── imbalance_handling.py
+│ └── split_dataset.py
+└── dataset_report.md
 
 ---
 
