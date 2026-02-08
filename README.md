@@ -21,7 +21,7 @@ evaluation, and optional web-based prediction interface.
 
 ---
 
-## 📂 Project Structure
+## 📂 Dataset Structure
 
 DATA_ANALYSIS/                                                                                                                                                                                                      
 ├── data/                                                                                                                                                                                                            
