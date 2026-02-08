@@ -178,13 +178,3 @@ python scripts/split_dataset.py
 - Improve minority class accuracy
 
 ---
-
-## 👨‍💻 Author
-Gowtham R  
-Cybernauts Major Internship – Month 2  
-Role: Dataset & Data Analyst
-
----
-
-## 📜 License
-This project is intended for academic and research purposes only.
